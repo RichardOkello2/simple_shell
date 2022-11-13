@@ -1,4 +1,4 @@
-vigation
+This is a group project by Richard Okello and Ezendiokwere Emmanuel. 
 0x16. C - Simple Shell
 C
 Group project
